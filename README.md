@@ -5,7 +5,10 @@ building a local wp with gatby, graphql + local nodeJs server from mysql
 md cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # H1 Hi there...
+1st ting first- it all works!
+https://youtu.be/90uvE7LgNrQ
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90uvE7LgNrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # h2 this project is all about wp + gatsby
 
@@ -55,3 +58,15 @@ https://www.gatsbyjs.com/guides/wordpress/
 apperently old php version, reinstalled xampp into c: xampp2
 restarting...
 
+http://localhost/www/DEV/local_gatsby/ - new site directory - retry gatsby wp
+
+it works! on to gatsby plugin into dev folder:
+https://www.gatsbyjs.com/docs/recipes/working-with-plugins#using-a-plugin
+npm install gatsby-source-filesystem
+
+
+deleteing client and adding starter:
+https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-source-wordpress/docs/getting-started.md
+
+
+gatsby new Client https://github.com/gatsbyjs/gatsby-starter-wordpress-blog
